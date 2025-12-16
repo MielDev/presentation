@@ -1,0 +1,6 @@
+[2025-12-10 18:37:01] Tentative d'envoi d'email à: moignon168@gmail.com
+[2025-12-10 18:37:02] Sujet: C&#39;est pour te saluer
+[2025-12-10 18:37:04] Erreur d'envoi d'email: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+[2025-12-10 18:46:02] Tentative d'envoi d'email à: moignon168@gmail.com
+[2025-12-10 18:46:02] Sujet: C&#39;est pour te saluer
+[2025-12-10 18:46:07] Email envoyé avec succès à: moignon168@gmail.com
