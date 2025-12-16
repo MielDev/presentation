@@ -97,8 +97,8 @@
                 <li><a href="#partenaires">Partenaires</a></li>
             </ul>
             <div class="auth-buttons">
-                <a href="https://app.episoletudiantedumans.fr/login" class="btn btn-login">Connexion</a>
-                <a href="https://app.episoletudiantedumans.fr/register" class="btn btn-register">Inscription</a>
+                <a href="https://app.episoletudiantedumans.fr" class="btn btn-login">Connexion</a>
+                <a href="https://app.episoletudiantedumans.fr" class="btn btn-register">Inscription</a>
             </div>
             <div class="burger" onclick="toggleMenu()">
                 <span></span>
@@ -116,9 +116,9 @@
             <a href="#rejoindre" class="btn btn-secondary">Nous rejoindre</a>
             <div class="hero-auth-buttons">
                 <p>Déjà membre ?</p>
-                <a href="https://app.episoletudiantedumans.fr/login" class="btn btn-login">Prendre un RDV</a>
+                <a href="https://app.episoletudiantedumans.fr" class="btn btn-login">Prendre un RDV</a>
                 <p>ou</p>
-                <a href="https://app.episoletudiantedumans.fr/register" class="btn btn-register">Créer un
+                <a href="https://app.episoletudiantedumans.fr" class="btn btn-register">Créer un
                     compte</a>
             </div>
         </div>
@@ -142,8 +142,8 @@
                     <i class="fas fa-users"></i>
                 </div>
                 <h3>Par des étudiants</h3>
-                <p>Notre épicerie est gérée entièrement par des bénévoles étudiants qui comprennent les défis de la vie
-                    étudiante et s'engagent à soutenir leurs pairs.</p>
+                <p>Notre épicerie est principalement gérée par des bénévoles étudiants qui comprennent les défis de la vie
+                    étudiante et s'engagent à soutenir leurs pairs, avec le soutien de professionnels bénévoles.</p>
             </div>
 
             <div class="card">
@@ -162,9 +162,9 @@
             <p>Pour venir à l'épicerie, vous devez prendre rendez-vous en ligne. Notre système de réservation vous
                 permet de choisir un créneau qui vous convient.</p>
             <div style="text-align: center; margin-top: 1.5rem;">
-                <a href="https://app.episoletudiantedumans.fr/register" class="btn btn-register"
+                <a href="https://app.episoletudiantedumans.fr" class="btn btn-register"
                     style="display: inline-block; margin: 0.5rem;">Créer un compte</a>
-                <a href="https://app.episoletudiantedumans.fr/login" class="btn btn-login"
+                <a href="https://app.episoletudiantedumans.fr" class="btn btn-login"
                     style="display: inline-block; margin: 0.5rem;">Prendre un RDV</a>
             </div>
         </div>
@@ -205,8 +205,15 @@
                 <div class="team-avatar">
                     <i class="fas fa-user"></i>
                 </div>
-                <h4>Présidente</h4>
+                <h4>Président</h4>
                 <p>Coordination générale et relations extérieures</p>
+            </div>
+            <div class="team-member">
+                <div class="team-avatar">
+                    <i class="fas fa-user"></i>
+                </div>
+                <h4>Vice-présidente</h4>
+                <p>Support à la présidence et gestion des opérations</p>
             </div>
             <div class="team-member">
                 <div class="team-avatar">
@@ -241,8 +248,9 @@
                     <i class="fas fa-shopping-cart"></i>
                 </div>
                 <h3>Devenir bénéficiaire</h3>
-                <p>Vous êtes étudiant et avez besoin d'un coup de pouce ? Inscrivez-vous en présentant votre carte
-                    étudiante et un justificatif de ressources lors de nos permanences.</p>
+                <p>Vous êtes étudiant et avez besoin d'un coup de pouce ? Inscrivez-vous en ligne sur notre site
+                     pour prendre un rendes-vous par semaine puis présenter votre carte
+                    étudiante lors de nos permanences.</p>
             </div>
 
             <div class="card">
@@ -271,8 +279,8 @@
                 style="display: flex; flex-direction: column; gap: 1rem; margin-top: 1rem; align-items: center;">
                 <p>Déjà membre ? Connectez-vous pour prendre rendez-vous</p>
                 <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-                    <a href="https://app.episoletudiantedumans.fr/login" class="btn btn-login">Prendre un RDV</a>
-                    <a href="https://app.episoletudiantedumans.fr/register" class="btn btn-register">Créer un
+                    <a href="https://app.episoletudiantedumans.fr" class="btn btn-login">Prendre un RDV</a>
+                    <a href="https://app.episoletudiantedumans.fr" class="btn btn-register">Créer un
                         compte</a>
                 </div>
             </div>
@@ -366,7 +374,7 @@
                 <h3>Nous trouver</h3>
                 <div class="map-wrapper">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.785760074909!2d0.1892153156385598!3d47.99988097920916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e2fcf9a9c3d6b5%3A0x40d07f9a1d7b1b1d!2sUniversit%C3%A9%20du%20Mans!5e0!3m2!1sfr!2sfr!4v1630000000000!5m2!1sfr!2sfr"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2678.785760074909!2d0.19639!3d47.999881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e2fcf9a9c3d6b5%3A0x40d07f9a1d7b1b1d!2s16%20Boulevard%20Charles%20Nicolle%2C%2072000%20Le%20Mans!5e0!3m2!1sfr!2sfr!4v1630000000000!5m2!1sfr!2sfr"
                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy">
                     </iframe>
                 </div>
@@ -388,12 +396,6 @@
             </div>
             <div class="partner-card">
                 <div class="partner-logo">
-                    <i class="fas fa-store"></i>
-                </div>
-                <h4>Commerces locaux</h4>
-            </div>
-            <div class="partner-card">
-                <div class="partner-logo">
                     <i class="fas fa-seedling"></i>
                 </div>
                 <h4>Producteurs locaux</h4>
@@ -403,6 +405,42 @@
                     <i class="fas fa-building"></i>
                 </div>
                 <h4>Banque Alimentaire</h4>
+            </div>
+            <div class="partner-card">
+                <div class="partner-logo">
+                    <i class="fas fa-leaf"></i>
+                </div>
+                <h4>Biocoop</h4>
+            </div>
+            <div class="partner-card">
+                <div class="partner-logo">
+                    <i class="fas fa-shopping-cart"></i>
+                </div>
+                <h4>Carrefour</h4>
+            </div>
+            <div class="partner-card">
+                <div class="partner-logo">
+                    <i class="fas fa-heartbeat"></i>
+                </div>
+                <h4>Harmonie Mutuelle</h4>
+            </div>
+            <div class="partner-card">
+                <div class="partner-logo">
+                    <i class="fas fa-landmark"></i>
+                </div>
+                <h4>Mairie du Mans</h4>
+            </div>
+            <div class="partner-card">
+                <div class="partner-logo">
+                    <i class="fas fa-gift"></i>
+                </div>
+                <h4>Agence du Don en Nature</h4>
+            </div>
+            <div class="partner-card">
+                <div class="partner-logo">
+                    <i class="fas fa-spa"></i>
+                </div>
+                <h4>Le Jardin Solidaire</h4>
             </div>
         </div>
         <p style="text-align: center; margin-top: 2rem;">
@@ -443,9 +481,9 @@
         <div class="footer-bottom">
             <p>&copy; 2025 Épicerie Solidaire Étudiante du Mans - Tous droits réservés</p>
             <div class="footer-auth-links">
-                <a href="https://app.episoletudiantedumans.fr/login">Prendre RDV</a>
+                <a href="https://app.episoletudiantedumans.fr">Prendre RDV</a>
                 <span>|</span>
-                <a href="https://app.episoletudiantedumans.fr/register">Créer un compte</a>
+                <a href="https://app.episoletudiantedumans.fr">Créer un compte</a>
             </div>
         </div>
     </footer>
