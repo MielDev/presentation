@@ -202,8 +202,8 @@
         </p>
         <div class="team-grid">
             <div class="team-member">
-                <div class="team-avatar">
-                    <img src="assets/equipe/sandrine_soubeyran.jpeg" alt="Sandrine SOUBEYRAN" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+                <div class="team-avatar" style="overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
+                    <img src="assets/equipe/sandrine_soubeyran.jpeg" alt="Sandrine SOUBEYRAN" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy">
                 </div>
                 <h4>Sandrine SOUBEYRAN</h4>
                 <p>Gérante de l'épicerie</p>
