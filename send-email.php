@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
     
     // Destinataire
-    $to = 'moignon168@gmail.com';
+    $to = 'episoldumans@gmail.com';
     
     try {
         // Création d'une nouvelle instance de PHPMailer
