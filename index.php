@@ -203,9 +203,16 @@
         <div class="team-grid">
             <div class="team-member">
                 <div class="team-avatar">
+                    <img src="assets/equipe/sandrine_soubeyran.jpeg" alt="Sandrine SOUBEYRAN" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+                </div>
+                <h4>Sandrine SOUBEYRAN</h4>
+                <p>Gérante de l'épicerie</p>
+            </div>
+            <div class="team-member">
+                <div class="team-avatar">
                     <i class="fas fa-user"></i>
                 </div>
-                <h4>Présidente</h4>
+                <h4>Président</h4>
                 <p>Coordination générale et relations extérieures</p>
             </div>
             <div class="team-member">
