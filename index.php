@@ -209,32 +209,32 @@
                 <p>Gérante de l'épicerie</p>
             </div>
             <div class="team-member">
-                <div class="team-avatar">
-                    <i class="fas fa-user"></i>
+                <div class="team-avatar" style="overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
+                    <img src="assets/equipe/Armel_LOKOSSOU.jpg" alt="Armel LOKOSSOU" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy">
                 </div>
-                <h4>Président</h4>
-                <p>Coordination générale et relations extérieures</p>
+                <h4>Armel LOKOSSOU</h4>
+                <p>Président - Coordination générale et relations extérieures</p>
             </div>
             <div class="team-member">
-                <div class="team-avatar">
-                    <i class="fas fa-user"></i>
+                <div class="team-avatar" style="overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
+                    <img src="assets/equipe/Sarah_Lechevalier.jpeg" alt="Sarah LECHEVALIER" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy">
                 </div>
-                <h4>Vice-présidente</h4>
-                <p>Support à la présidence et gestion des opérations</p>
+                <h4>Sarah LECHEVALIER</h4>
+                <p>Vice-présidente - Support à la présidence et gestion des opérations</p>
             </div>
             <div class="team-member">
-                <div class="team-avatar">
-                    <i class="fas fa-user"></i>
+                <div class="team-avatar" style="overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
+                    <img src="assets/equipe/Alexandre_KAGAMBEGA.jpg" alt="Alexandre KAGAMBEGA" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy">
                 </div>
-                <h4>Trésorier</h4>
-                <p>Gestion financière et comptabilité</p>
+                <h4>Alexandre KAGAMBEGA</h4>
+                <p>Trésorier - Gestion financière et comptabilité</p>
             </div>
             <div class="team-member">
-                <div class="team-avatar">
-                    <i class="fas fa-user"></i>
+                <div class="team-avatar" style="overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
+                    <img src="assets/equipe/Hanaé_SAINT-JOURS.jpg" alt="Hanaé SAINT-JOURS" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy">
                 </div>
-                <h4>Secrétaire</h4>
-                <p>Communication et administration</p>
+                <h4>Hanaé SAINT-JOURS</h4>
+                <p>Secrétaire - Communication et administration</p>
             </div>
             <div class="team-member">
                 <div class="team-avatar">
