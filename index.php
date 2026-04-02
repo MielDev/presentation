@@ -8,8 +8,16 @@
         content="L'Épicerie Solidaire Étudiante du Mans propose une aide alimentaire aux étudiants en situation de précarité. Située au 16 Boulevard Charles Nicolle, nous vous accueillons pour vous accompagner.">
     <meta name="keywords"
         content="Kadmiel TOGNON, épicerie solidaire, aide alimentaire, étudiants, Le Mans, 72000, précarité étudiante, alimentation, solidarité, épicerie sociale">
-    <meta name="author" content="Kadmiel TOGNON - Développeur du site de l'Épicerie Solidaire Étudiante du Mans">
-    <meta name="robots" content="index, follow">
+    
+    <!-- Auteur et développeur -->
+    <meta name="author" content="Kadmiel TOGNON">
+    <meta name="designer" content="Kadmiel TOGNON">
+    <meta name="publisher" content="Kadmiel TOGNON">
+    <meta name="copyright" content="Kadmiel TOGNON - Tous droits réservés">
+    <link rel="author" href="https://www.linkedin.com/in/kadmiel-tognon-924644152/">
+    <meta name="web-author" content="Kadmiel TOGNON, Kadmieltognon5@gmail.com">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
     <meta name="geo.region" content="FR-72">
     <meta name="geo.placename" content="Le Mans">
     <meta name="geo.position" content="48.0077;0.1984">
@@ -77,6 +85,7 @@
     <!-- Préchargement des polices et ressources -->
     <link rel="preconnect" href="https://cdnjs.cloudflare.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css?v=1" type="text/css">
 </head>
@@ -477,6 +486,7 @@
                 <a href="#presentation">Présentation</a>
                 <a href="#rejoindre">Nous rejoindre</a>
                 <a href="#contact">Contact</a>
+                <a href="sitemap.xml">Plan du site</a>
             </div>
             <div>
                 <h4>Contact</h4>
@@ -486,7 +496,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2025 Épicerie Solidaire Étudiante du Mans - Tous droits réservés</p>
+            <p>&copy; 2026 Épicerie Solidaire Étudiante du Mans - Tous droits réservés</p>
             <div class="footer-auth-links">
                 <a href="https://app.episoletudiantedumans.fr">Prendre RDV</a>
                 <span>|</span>
